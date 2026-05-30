@@ -17,7 +17,7 @@ Efforts to reach accesibility for every human being
 * Once in Panel Editor go to `File` > `Open` > select the unzipped file
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor` > Enable `Accesibility Keyboard`
 
-### Panel
+### Accesibility Panel
 
 * [Download](panels/IMHICIHU_Panel_accesibilidad.zip) and unzip to get this panel
   ![keyboard](images/panel_accesible.png)
@@ -31,7 +31,7 @@ Efforts to reach accesibility for every human being
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### Licence ###
 
