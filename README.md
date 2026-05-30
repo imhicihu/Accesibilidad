@@ -14,7 +14,7 @@ Efforts to reach accesibility for every human being
 * [Download](panels/imhicihu-keyboard-access.zip) and unzip to get this panel
   ![keyboard](images/keyboard.png)
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor`
-* Once in Panel Editor go to `File` > `Open` > select the unzipped file
+* Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor` > Enable `Accesibility Keyboard`
 
 ### Accesibility Panel
