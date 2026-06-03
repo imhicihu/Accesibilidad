@@ -28,6 +28,10 @@ Efforts to reach accesibility for every human being
 * Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Switch Control` > Enable `Switch Control`
 
+### Voice control
+```
+<script src="https://gist.github.com/imhicihu/e3b6665c48316c29557f10d8a3616d56.js"></script>
+```
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
