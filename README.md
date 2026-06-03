@@ -42,7 +42,7 @@ Efforts to reach accesibility for every human being
 
 ### Licence ###
 
-* The content of this project itself is licensed under the MIT Licence
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
   
 ---
 > [!NOTE]
