@@ -9,7 +9,7 @@
 
 # RATIONALE / [MOTIVACION](LEEME.md)
 * Efforts to reach accesibility for every human being
-* This repo is a living document that will grow and adapt over time according law, health issues and internal projects, etc.
+* This repo is a living document that will grow and adapt over time according [law](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet), health issues and internal projects, etc.
 <br></br>
 
 ### Accesibility Keyboard
