@@ -7,9 +7,9 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# Accesibilidad
-
-Efforts to reach accesibility for every human being
+# RATIONALE / [MOTIVACION](LEEME.md)
+* Efforts to reach accesibility for every human being
+* This repo is a living document that will grow and adapt over time according law, health issues and internal projects, etc.
 
 
 ### Accesibility Keyboard
