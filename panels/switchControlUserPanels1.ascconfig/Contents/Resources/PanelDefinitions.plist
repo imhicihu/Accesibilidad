@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Panels</key>
+	<dict>
+		<key>USER.6FBB3D17-C44D-433F-B0DF-66D35E4093F1</key>
+		<dict>
+			<key>DisplayOrder</key>
+			<integer>1</integer>
+			<key>GlidingLensSize</key>
+			<integer>5</integer>
+			<key>HasTransientPosition</key>
+			<false/>
+			<key>HideHome</key>
+			<false/>
+			<key>HideMinimize</key>
+			<false/>
+			<key>HidePanelAdjustments</key>
+			<false/>
+			<key>HideSwitchDock</key>
+			<false/>
+			<key>HideSwitchDockContextualButtons</key>
+			<false/>
+			<key>HideTitlebar</key>
+			<false/>
+			<key>ID</key>
+			<string>USER.6FBB3D17-C44D-433F-B0DF-66D35E4093F1</string>
+			<key>Name</key>
+			<string>IMHICIHU</string>
+			<key>PanelObjects</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>7A499842-6BC5-41B1-A7E0-77B3AEB6C83B</string>
+								<key>ShortcutName</key>
+								<string>IMHICIHU website</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>IMHICIHU</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.79B7F6AF-73FC-4561-844F-D682A760EA72</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 0}, {80, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en IMHICIHU</string>
+				</dict>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>9FAE5437-EBC0-4D44-B021-D9908A8F64D0</string>
+								<key>ShortcutName</key>
+								<string>Publicaciones - IMHICIHU</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Publicaciones</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.6FA602F8-41A9-41B1-BC46-ABD5BE4979A3</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 30}, {100, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en Publicaciones</string>
+				</dict>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>CCE1703B-6333-4234-A816-988BFBC6ACAB</string>
+								<key>ShortcutName</key>
+								<string>Colecciones digitales - IMHICIHU</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Colecciones digitales</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.6FF8B934-21BD-42DD-AC72-C4DC8F3B8628</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 60}, {135, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en Colecciones digitales</string>
+				</dict>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>CCE1703B-6333-4234-A816-988BFBC6ACAB</string>
+								<key>ShortcutName</key>
+								<string>Colecciones digitales - IMHICIHU</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Colecciones digitales</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.CA3195D2-8F8F-4243-939A-7ABC14703A63</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 95}, {135, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en Colecciones digitales</string>
+				</dict>
+				<dict>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Biblioteca</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.8D8C9E05-195D-4FB5-AF6B-08D12DA24621</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 220}, {80, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en Biblioteca</string>
+				</dict>
+				<dict>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Calendario</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.DE33FC67-9597-41BF-A5AF-9870D4F59287</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 250}, {80, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en Calendario</string>
+				</dict>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>ED93CC93-4AA7-41C3-8FD5-B02E9B7942BB</string>
+								<key>ShortcutName</key>
+								<string>IMHICIHU - Contacto</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>Contacto</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.C27E86AB-BE78-47C4-8E3F-09118CE1384B</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 285}, {70, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>CHacer clic en Contacto</string>
+				</dict>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>82A64C45-97E6-4B5C-A885-9EF37E343F02</string>
+								<key>ShortcutName</key>
+								<string>IMHICIHU - GitHub</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>GitHub</string>
+					<key>FontSize</key>
+					<real>12</real>
+					<key>ID</key>
+					<string>Button.2FB5378F-EA09-4492-A5E2-46AC7669D0C9</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 320}, {65, 25}}</string>
+					<key>SpokenDescription</key>
+					<string>Hacer clic en GitHub</string>
+				</dict>
+			</array>
+			<key>ProductSupportType</key>
+			<string>All</string>
+			<key>Rect</key>
+			<string>{{35, 100}, {135, 345}}</string>
+			<key>ScanStyle</key>
+			<integer>0</integer>
+			<key>ShowPanelLocationString</key>
+			<string>DefaultHomePanel</string>
+			<key>UsesPinnedResizing</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>ToolbarOrdering</key>
+	<dict>
+		<key>ToolbarIdentifiersAfterBasePanel</key>
+		<array/>
+		<key>ToolbarIdentifiersPriorToBasePanel</key>
+		<array>
+			<string>ACSH.systemPanel.dynamic.hoverText</string>
+			<string>ACSH.systemPanel.dynamic.bestSuggestions</string>
+			<string>ACSH.systemPanel.dynamic.bestFunctionKeys</string>
+		</array>
+	</dict>
+</dict>
+</plist>
