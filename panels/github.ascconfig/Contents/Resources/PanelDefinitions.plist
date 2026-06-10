@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Panels</key>
+	<dict>
+		<key>USER.81D3EC97-6AAE-420A-80A2-3687D9D58413</key>
+		<dict>
+			<key>AssociatedApplications</key>
+			<array>
+				<dict>
+					<key>ApplicationBundleID</key>
+					<string>com.google.Chrome</string>
+					<key>ApplicationDisplayName</key>
+					<string>Google Chrome</string>
+					<key>ApplicationPath</key>
+					<string>/Applications/browsers/Google Chrome.app</string>
+				</dict>
+				<dict>
+					<key>ApplicationBundleID</key>
+					<string>com.apple.finder</string>
+					<key>ApplicationDisplayName</key>
+					<string>Finder</string>
+					<key>ApplicationPath</key>
+					<string>/System/Library/CoreServices/Finder.app</string>
+				</dict>
+			</array>
+			<key>DisplayOrder</key>
+			<integer>1</integer>
+			<key>GlidingLensSize</key>
+			<integer>5</integer>
+			<key>HasTransientPosition</key>
+			<false/>
+			<key>HideHome</key>
+			<false/>
+			<key>HideMinimize</key>
+			<false/>
+			<key>HidePanelAdjustments</key>
+			<false/>
+			<key>HideSwitchDock</key>
+			<false/>
+			<key>HideSwitchDockContextualButtons</key>
+			<false/>
+			<key>HideTitlebar</key>
+			<false/>
+			<key>ID</key>
+			<string>USER.81D3EC97-6AAE-420A-80A2-3687D9D58413</string>
+			<key>Name</key>
+			<string>IMHICIHU</string>
+			<key>PanelObjects</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionParam</key>
+							<dict>
+								<key>ShortcutIdentifier</key>
+								<string>82A64C45-97E6-4B5C-A885-9EF37E343F02</string>
+								<key>ShortcutName</key>
+								<string>IMHICIHU - GitHub</string>
+							</dict>
+							<key>ActionRecordedOffset</key>
+							<real>0.0</real>
+							<key>ActionType</key>
+							<string>ActionRunShortcut</string>
+							<key>ID</key>
+							<string>Action.3CD98882-6113-4BE6-8820-ECB5898163D3</string>
+						</dict>
+					</array>
+					<key>ButtonType</key>
+					<integer>0</integer>
+					<key>DisplayColor</key>
+					<string>0.737 0.894 0.973 1.000</string>
+					<key>DisplayImageResourceIsTemplate</key>
+					<false/>
+					<key>DisplayImageWeight</key>
+					<string>FontWeightRegular</string>
+					<key>DisplayText</key>
+					<string>GitHub</string>
+					<key>ID</key>
+					<string>Button.2FB5378F-EA09-4492-A5E2-46AC7669D0C9</string>
+					<key>PanelObjectType</key>
+					<string>Button</string>
+					<key>Rect</key>
+					<string>{{0, 0}, {100, 25}}</string>
+				</dict>
+			</array>
+			<key>ProductSupportType</key>
+			<string>All</string>
+			<key>Rect</key>
+			<string>{{16, 52}, {100, 25}}</string>
+			<key>ScanStyle</key>
+			<integer>0</integer>
+			<key>ShowPanelLocationString</key>
+			<string>CustomPanelList</string>
+			<key>UsesPinnedResizing</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>ToolbarOrdering</key>
+	<dict>
+		<key>ToolbarIdentifiersAfterBasePanel</key>
+		<array/>
+		<key>ToolbarIdentifiersPriorToBasePanel</key>
+		<array>
+			<string>ACSH.systemPanel.dynamic.bestDwellActions</string>
+			<string>ACSH.systemPanel.dynamic.hoverText</string>
+			<string>ACSH.systemPanel.dynamic.bestSuggestions</string>
+			<string>ACSH.systemPanel.dynamic.bestFunctionKeys</string>
+		</array>
+	</dict>
+</dict>
+</plist>
