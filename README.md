@@ -10,7 +10,7 @@
 # RATIONALE / [MOTIVACION](LEEME.md)
 * Efforts to reach accesibility for every human being
 * This repo is a living document that will grow and adapt over time according law, health issues and internal projects, etc.
-
+<br></br>
 
 ### Accesibility Keyboard
 
@@ -19,6 +19,7 @@
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor`
 * Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor` > Enable `Accesibility Keyboard`
+<br></br>
 
 ### Accesibility Panel
 
@@ -27,11 +28,15 @@
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Switch Control` > `Panel Editor`
 * Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
 * Then go to `System Settings` > `Accesibility` > `Keyboard` > `Switch Control` > Enable `Switch Control`
+<br></br>
 
 ### Voice control
+
 ```
 <script src="https://gist.github.com/imhicihu/e3b6665c48316c29557f10d8a3616d56.js"></script>
 ```
+<br></br>
+
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](code_of_conduct.md)
