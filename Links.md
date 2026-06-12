@@ -1,6 +1,7 @@
 ### Accesibilidad
 * Reglas de accesibilidad. Mayor información sobre la legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 * [Use the Panel Editor for Switch Control or the Accessibility Keyboard on Mac](https://support.apple.com/en-bn/guide/mac-help/mh43606/mac)
+* [Switch Control on Mac](https://support.apple.com/en-bn/guide/mac-help/mh43607/15.0/mac/15.0)
 * [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg): Chrome extension that simulates colour-blindness in a web browser
 * [Toptal Colorblind Web Page Filter](https://www.toptal.com/designers/colorfilter)
 * [Colour Contrast Analyser](https://github.com/ThePacielloGroup/CCAe/releases/tag/v1.0.0)
