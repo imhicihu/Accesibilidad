@@ -32,10 +32,7 @@
 
 ### Voice control
 
-```
-<script src="https://gist.github.com/imhicihu/e3b6665c48316c29557f10d8a3616d56.js"></script>
-```
-<br></br>
+![keyboard](images/code-shot.png)
 
 ### Code of Conduct
 
