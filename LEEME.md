@@ -47,5 +47,5 @@
 * El contenido de este proyecto está bajo la ![Licencia MIT](images/2049852260-MIT-license-green.png)
   
 ---
-> [!NOTA]
+> [!NOTE]
 > Esta herramienta de accesibilidad solo funciona en el entorno MacOSX
