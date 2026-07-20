@@ -10,7 +10,7 @@
 # JUSTIFICACIÓN / [RATIONALE](README.md)
 * Iniciativas para lograr la accesibilidad para todas las personas
 * Este repositorio es un documento en constante evolución que irá creciendo y adaptándose con el tiempo en función de la [legislación](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet), las cuestiones sanitarias y los proyectos internos, etc.
-<br></br>
+![accessibilites](images/Screenshot_2026-07-20_at_12.16.30_PM.png)
 
 ### Teclado de accesibilidad
 
