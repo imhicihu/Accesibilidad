@@ -12,22 +12,26 @@
 * This repo is a living document that will grow and adapt over time according [law](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet), health issues and internal projects, etc.
 ![accessibilites](images/Screenshot_2026-07-20_at_12.16.30_PM.png)
 
-### Accesibility Keyboard
+---
+
+### Accessibility Keyboard
 
 * [Download](panels/imhicihu-keyboard-access.zip) and unzip to get this panel
-  ![keyboard](images/keyboard.png)
-* Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor`
+![keyboard](images/keyboard.png)
+* Then go to `System Settings` > `Accessibility` > `Keyboard` > `Panel Editor`
 * Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
-* Then go to `System Settings` > `Accesibility` > `Keyboard` > `Panel Editor` > Enable `Accesibility Keyboard`
+* Then go to `System Settings` > `Accessibility` > `Keyboard` > `Panel Editor` > Enable `Accessibility Keyboard`
 <br></br>
 
-### Accesibility Panel
+---
+
+### Accessibility Panel
 
 * [Download](panels/IMHICIHU_Panel_accesibilidad.zip) and unzip to get this panel
-  ![keyboard](images/panel_accesible.png)
-* Then go to `System Settings` > `Accesibility` > `Keyboard` > `Switch Control` > `Panel Editor`
+![keyboard](images/panel_accesible.png)
+* Then go to `System Settings` > `Accessibility` > `Keyboard` > `Switch Control` > `Panel Editor`
 * Once in `Panel Editor` go to `File` > `Open` > select the unzipped file
-* Then go to `System Settings` > `Accesibility` > `Keyboard` > `Switch Control` > Enable `Switch Control`
+* Then go to `System Settings` > `Accessibility` > `Keyboard` > `Switch Control` > Enable `Switch Control`
 <br></br>
 
 ### Voice control
