@@ -52,6 +52,6 @@
   
 ---
 > [!NOTE]
-> This accesibility tools works only in the MacOSX environment
+> These accessibility tools works only in the MacOSX environment
 
 
