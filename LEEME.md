@@ -7,7 +7,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# JUSTIFICACIÓN / [RATIONALE](README.md)
+## Motivación / [Rationale](README.md)
 * Iniciativas para lograr la accesibilidad para todas las personas
 * Este repositorio es un documento en constante evolución que irá creciendo y adaptándose con el tiempo en función de la [legislación](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet), las cuestiones sanitarias y los proyectos internos, etc.
 ![accessibilites](images/Screenshot_2026-07-20_at_12.16.30_PM.png)
