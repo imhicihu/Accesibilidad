@@ -7,7 +7,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# Rationale / [Motivación](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 * Efforts to reach accessibility for every human being
 * This repo is a living document that will grow and adapt over time according [law](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet), health issues and internal projects, etc.
 ![accessibilites](images/Screenshot_2026-07-20_at_12.16.30_PM.png)
