@@ -44,7 +44,7 @@
 
 ### Licencia
 
-* El contenido de este proyecto está bajo la ![Licencia MIT](images/2049852260-MIT-license-green.png)
+* El contenido de este proyecto está bajo una ![Licencia MIT](images/2049852260-MIT-license-green.png)
   
 ---
 > [!NOTE]
