@@ -48,4 +48,4 @@
   
 ---
 > [!NOTE]
-> Esta herramienta de accesibilidad solo funciona en el entorno MacOSX
+> Esta herramienta de accesibilidad solo funciona en un entorno MacOSX
